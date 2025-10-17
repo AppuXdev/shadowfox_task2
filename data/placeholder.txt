@@ -1,0 +1,1 @@
+This folder contains Excel files used for AQI data analysis in Task 2.
